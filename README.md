@@ -4,7 +4,7 @@
 The following repository holds weekly practical tasks on Data Science topics
 
 ## Data
-required data folders present for each weekly task is present in the './data' folder.
+required data files present for each weekly task is present in the './data' folder.
 
 ## Weekly Practical Task
 
@@ -21,3 +21,5 @@ Week 6 : Logistic Regression on Breast Cancer dataset
 Week 8 : Clustering and Text Analysis
 
 Week 9 : Classifying Iris Dataset using K-Nearest Neighbours with Cross Validation
+
+Week 10: Using Naive Bayes on Human Activity Recognition dataset
